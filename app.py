@@ -7,7 +7,7 @@ import os
 import google.generativeai as genai  # Gemini AI integration
 
 # ✅ Configure Gemini API
-genai.configure(api_key="AIzaSyAk-ZcH4SjtYlGklCIZ6lpizZXW-BaKNcc")
+genai.configure(api_key="C:\Users\S Kishore\Downloads\Api-Key.txt")
 
 # Load class names from data.yaml
 def load_class_names(yaml_path):
