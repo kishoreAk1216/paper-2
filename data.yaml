@@ -1,0 +1,5 @@
+train: C:\Users\S Kishore\Downloads\Dataset\train
+test: C:\Users\S Kishore\Downloads\Dataset\test
+val: C:\Users\S Kishore\Downloads\Dataset\val
+nc: 5
+names: ['Healthy','RedRot','Rust','Yellow','Mosaic']
